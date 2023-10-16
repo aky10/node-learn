@@ -14,3 +14,4 @@
 
 //npm init(step bu step press enter to skip)
 // npm init -y (everything default)
+console.log("h");
